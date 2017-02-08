@@ -1,0 +1,10 @@
+/* Gallery Styles */
+
+#motioncontainer {
+/margin:0 auto;  
+width: 100%; /* Set to gallery width, in px or percentage */
+height: 500px; /* Set to gallery height */
+}
+
+
+/* End Gallery Styles */

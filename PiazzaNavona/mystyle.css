@@ -1,0 +1,26 @@
+
+a {font-family:arial; color:silver; font-size:9.5pt;}
+A:hover {text-decoration:none; color:red;}
+A:active {color:silver;}
+
+body 
+{
+  font-family:arial;
+  font-size:9.5pt;
+  color:silver;
+  background-color:black;
+        /* 2x LC width + RC width */
+  
+}
+
+#container {
+  padding-left: 150px;   /* LC width */
+  padding-right: 150px;  /* RC width */
+  border:1px solid;
+  width:700px;
+  align:center;
+}
+
+#footer {
+  clear: both;
+}
